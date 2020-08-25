@@ -47,7 +47,7 @@ mapeou.
 * Documentação formatada e concisa;
 * Apresentação (Slides) da abordagem tomada para resolver o problema;
 * Utilização de Docker;
-* Missing Data, 
+* Tratamento de Missing Data, caso encontre. 
 * Utilização de mais de uma abordagem para a solução do problema. Demostrando as diferenças
 entre cada uma delas (vantagens e desvantagens).
 
